@@ -2,7 +2,7 @@
 
 Este é um simples script em Python que permite baixar vídeos do YouTube utilizando a biblioteca pytube.
 
-## Como Funciona:
+ Como Funciona:
 
 1. O script solicita ao usuário que insira o link do vídeo do YouTube que deseja baixar.
 2. Em seguida, cria uma instância da classe YouTube, utilizando o link fornecido como argumento.
