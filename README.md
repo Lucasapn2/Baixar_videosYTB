@@ -16,7 +16,7 @@ Este é um simples script em Python que permite baixar vídeos do YouTube utiliz
 1. Certifique-se de ter o Python instalado em seu sistema.
 2. Instale a biblioteca pytube utilizando o seguinte comando: pip install pytube
 
-3. Execute o script `baixador_youtube.py`.
+3. Execute o script `main.py`(run).
 4. Quando solicitado, insira o link do vídeo do YouTube que deseja baixar.
 5. Aguarde até que o download seja concluído e verifique o diretório onde o script está localizado para encontrar o vídeo baixado.
 
