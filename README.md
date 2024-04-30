@@ -24,4 +24,7 @@ Este é um simples script em Python que permite baixar vídeos do YouTube utiliz
 
 - Este script atualmente suporta apenas o download de vídeos no formato MP4.
 
+- ![image](https://github.com/Lucasapn2/Baixar_videosYTB/assets/129186705/87bb7712-540b-4ac1-b3c8-e7e555408440)
+
+
 
